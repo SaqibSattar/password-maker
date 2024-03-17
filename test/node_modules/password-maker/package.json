@@ -1,0 +1,30 @@
+{
+  "name": "password-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaqibSattar/password-maker.git"
+  },
+  "keywords": [
+    "password",
+    "passwords",
+    "maker",
+    "generate",
+    "generator",
+    "generate-password",
+    "password-generator",
+    "password-creator",
+    "password-maker"
+  ],
+  "author": "Saqib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaqibSattar/password-maker/issues"
+  },
+  "homepage": "https://github.com/SaqibSattar/password-maker#readme"
+}
